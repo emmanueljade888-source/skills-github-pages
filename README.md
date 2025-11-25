@@ -23,7 +23,7 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
 
 ## Step 1: Enable GitHub Pages
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
+_Welcome to GitHub Pages and 
 
 The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
 
@@ -41,7 +41,7 @@ The first step is to enable GitHub Pages on this [repository](https://docs.githu
 <footer>
 
 <!--
-  <<< Author notes: Footer >>>
+  <<< Author notes: Footer >>>. EMMANU...JA
   Add a link to get support, GitHub status page, code of conduct, license link.
 -->
 
@@ -49,6 +49,6 @@ The first step is to enable GitHub Pages on this [repository](https://docs.githu
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+&copy; 2023 GitHub &; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md)  [MIT License](https://gh.io/mit)
 
-</footer>
+EMMANU
